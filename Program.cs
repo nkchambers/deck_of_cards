@@ -8,7 +8,8 @@ namespace deck_of_cards
         {
             //----------------------------Test Initializing Deck------------------------------
             Deck deck1 = new Deck();
-            //Console.WriteLine(deck1);
+            deck1.PrintDeck();
+            //deck1.Deal();
         }
     }
 }
