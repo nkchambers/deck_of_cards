@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nick8\\Desktop\\C#\\deck_of_cards\\deck_of_cards.csproj",
+      "projectUniqueName": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\deck_of_cards\\deck_of_cards.csproj",
       "projectName": "deck_of_cards",
-      "projectPath": "C:\\Users\\nick8\\Desktop\\C#\\deck_of_cards\\deck_of_cards.csproj",
+      "projectPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\deck_of_cards\\deck_of_cards.csproj",
       "packagesPath": "C:\\Users\\nick8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nick8\\Desktop\\C#\\deck_of_cards\\obj\\",
+      "outputPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\deck_of_cards\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nick8\\AppData\\Roaming\\NuGet\\NuGet.Config"
